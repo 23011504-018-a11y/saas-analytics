@@ -1,0 +1,7 @@
+customer_id,signup_date,mrr,churn_date,plan,acquisition_channel,expansion_mrr,contraction_mrr,gross_margin_pct,cac,usage_score,support_tickets,days_since_last_login
+c1,2024-01-15,120,,Growth,organic,20,0,0.7,200,84,1,3
+c2,2024-01-20,80,2024-06-01,Starter,paid_search,0,0,0.7,250,45,5,40
+c3,2024-02-10,150,,Growth,referral,10,5,0.7,220,90,0,2
+c4,2024-03-05,60,,Starter,organic,0,0,0.7,180,65,2,12
+c5,2024-03-16,90,2024-09-01,Pro,paid_search,0,10,0.7,240,48,4,35
+c6,2024-04-01,200,,Enterprise,partner,30,0,0.7,300,95,1,1

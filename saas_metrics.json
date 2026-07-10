@@ -1,0 +1,30 @@
+{
+  "as_of_date": "2024-10-01",
+  "data_quality": {
+    "total_rows": 6,
+    "missing_signup_date_count": 0,
+    "missing_mrr_count": 0,
+    "duplicate_customer_ids_count": 0,
+    "outlier_mrr_count": 0
+  },
+  "customers_total": 6,
+  "customers_active": 4,
+  "customers_churned": 2,
+  "mrr": 530.0,
+  "arr": 6360.0,
+  "logo_churn_rate": 33.33,
+  "revenue_churn_rate": 24.29,
+  "nrr": 82.14,
+  "grr": 73.57,
+  "ltv": 278.25,
+  "cac": 231.67,
+  "payback_period_months": 2.5,
+  "lead_indicators": {
+    "avg_usage_score_churned": 46.5,
+    "avg_usage_score_active": 83.5,
+    "avg_support_tickets_churned": 4.5,
+    "avg_support_tickets_active": 1.0,
+    "avg_days_since_last_login_churned": 37.5,
+    "avg_days_since_last_login_active": 4.5
+  }
+}
